@@ -1,4 +1,4 @@
-seedplugin_lua_ex
-=================
+seed_lua_ex
+===========
 
-seedplugin lua_ex
+Seed Engine plugin lua_ex
